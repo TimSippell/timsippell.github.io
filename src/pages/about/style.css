@@ -2,15 +2,6 @@
     margin-bottom: calc(3rem + 5.128vw)
 }
 
-.table td,
-.table th {
-    color: var(--text-color);
-}
-
-.t_border {
-    border-color: var(--text-color) !important;
-}
-
 .progress-title {
     font-size: 16px;
     font-weight: 700;
@@ -79,6 +70,7 @@
         -webkit-transform: translate3d(0, 100%, 0);
         transform: translate3d(0, 100%, 0);
     }
+
     to {
         opacity: 1;
         -webkit-transform: translateZ(0);
@@ -92,6 +84,7 @@
         -webkit-transform: translate3d(0, 100%, 0);
         transform: translate3d(0, 100%, 0);
     }
+
     to {
         opacity: 1;
         -webkit-transform: translateZ(0);

@@ -12,17 +12,17 @@ const introdata = {
         second: "If it's not easy to understand, it's not good code.",
         third: "",
     },
-    description: "I am a software engineer with eight years of experience designing, implementing,"
+    description: "I am a software engineer with eight years of experience designing, implementing, "
         + "and deploying software in many industries. I am passionate about building clean, "
-        + "scalable applications. I enjoy working collaboratively to develop systems that bring"
-        + "value to a company as quickly as possible",
+        + "scalable applications. I enjoy working collaboratively to develop systems that bring "
+        + "value to a company as quickly as possible.",
     your_img_url: "https://raw.githubusercontent.com/TimSippell/timsippell.github.io/main/src/assets/images/me_up_alpha.png",
 };
 
 const dataabout = {
     title: "Summary",
-    aboutme: "I'm a senior software engineer and architect who is passionate about great, readable, maintainable, code."
-        + "I follow true OOP practices as described by Yegor Bugayenko in Elegant Objects and I consult and coach best practices therein."
+    aboutme: "I'm a senior software engineer and architect who is passionate about great, readable, maintainable, code. "
+        + "I follow true OOP practices as described by Yegor Bugayenko in Elegant Objects and I consult and coach best practices therein. "
         + "",
 };
 
@@ -72,7 +72,7 @@ const skills = [{
 },
 {
     name: "Typescript",
-    value: 60,
+    value: 65,
 },
 ];
 
