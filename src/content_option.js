@@ -16,7 +16,7 @@ const introdata = {
         + "and deploying software in many industries. I am passionate about building clean, "
         + "scalable applications. I enjoy working collaboratively to develop systems that bring"
         + "value to a company as quickly as possible",
-    your_img_url: "https://avatars.githubusercontent.com/u/9341852",
+    your_img_url: "https://raw.githubusercontent.com/TimSippell/timsippell.github.io/main/src/assets/images/me_up_alpha.png",
 };
 
 const dataabout = {
